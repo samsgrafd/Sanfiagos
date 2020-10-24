@@ -1,0 +1,4 @@
+2020-10-04T06:25:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\wp-db.php rivillä 2033
+
+2020-10-04T06:26:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\Requests\Transport\cURL.php rivillä 162
+

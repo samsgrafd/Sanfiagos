@@ -1,0 +1,32 @@
+2020-10-07T07:42:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\wp-db.php rivillä 2033
+
+2020-10-07T07:44:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\l10n.php rivillä 189
+
+2020-10-07T09:15:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\wp-db.php rivillä 1574
+
+2020-10-07T09:15:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\pomo\translations.php rivillä 107
+
+2020-10-07T09:15:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\wp-db.php rivillä 2033
+
+2020-10-07T09:15:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\functions.php rivillä 4423
+
+2020-10-07T09:15:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\wp-db.php rivillä 2033
+
+2020-10-07T09:15:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\wp-db.php rivillä 2033
+
+2020-10-07T09:17:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\l10n.php rivillä 1373
+
+2020-10-07T09:17:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\pomo\entry.php rivillä 91
+
+2020-10-07T09:17:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\class-wp-list-util.php rivillä 90
+
+2020-10-07T09:18:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-content\plugins\elementor\core\files\css\base.php rivillä 368
+
+2020-10-07T09:23:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\pomo\translations.php rivillä 90
+
+2020-10-07T09:23:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\pomo\entry.php rivillä 83
+
+2020-10-07T09:23:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\l10n.php rivillä 1305
+
+2020-10-07T09:23:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded tässä C:\xampp\htdocs\Sanfiago\wordpress\wordpress\wp-includes\plugin.php rivillä 181
+
